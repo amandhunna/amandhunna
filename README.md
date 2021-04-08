@@ -36,7 +36,8 @@ Technologies:
 
 Also interested in:
 -   Digital Marketing, SEO, Blogging, Web Security
-- 
+
+
 Cheers,  
 Amanjot Singh  
 [amanjotsingh.work](https://amanjotsingh.work/)
