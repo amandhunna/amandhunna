@@ -32,7 +32,7 @@ You can contact with me any time there. or just an invite away - [Mail](mailto:a
 Technologies:
 
 - 🔭 I’m currently working on MERN stack
-- 🌱 I’m currently learning anything and everything I want and I can
+- 🌱 I’m currently learning anything and everything I want and I can (type ``learning`` in repos to know what I am learning currently)
 
 Also interested in:
 - ⚡ Blogging, Web Security, SEO, Digital Marketing
