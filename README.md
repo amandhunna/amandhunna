@@ -31,7 +31,7 @@ You can contact me any time there. or just an invite away - [Mail](mailto:amamjo
 Technologies:
 
 - 🔭 I’m currently working on <strong>MERN</strong> stack
-- 🌱 I’m currently learning anything and everything I want and I can (to know what I am learning click <strong>[here](https://github.com/amandhunna?tab=repositories&q=learning&type=&language=&sort=)</strong>  or type ``learning`` in [repos](https://github.com/dev-amandhunna?tab=repositories))
+- 🌱 Also, learning anything and everything I want and I can (to know what I am learning click <strong>[here](https://github.com/amandhunna?tab=repositories&q=learning&type=&language=&sort=)</strong>  or type ``learning`` in [repos](https://github.com/dev-amandhunna?tab=repositories))
 
 Also interested in:
 - ⚡ Blogging, Web Security, SEO, Digital Marketing
