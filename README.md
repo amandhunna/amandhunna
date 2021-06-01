@@ -39,4 +39,5 @@ Also interested in:
 
 Cheers,  
 Amanjot Singh  
-[amanjotsingh.work](https://amanjotsingh.work/)
+
+[Portfolio](https://amanjotsinghdhunna.netlify.app)
