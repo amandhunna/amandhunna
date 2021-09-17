@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 I'm an <em>Engineer</em> by profession and a <em>Teacher</em> by passion.  
 I share my knowledge by creating blogs and instagram post.  
-Check out my Blogs at- [Medium](https://amanjotsinghdhunna.medium.com) and [Instagram](https://www.instagram.com/amanjotsinghdhunna/)
+Check out my Blogs at- [Medium](https://amandhunna.medium.com) and [Instagram](https://www.instagram.com/amandhunna.dev/)
 
 You can contact me any time there. or just an invite away - [Mail](mailto:amamjotsingh260@gmail.com)
 
