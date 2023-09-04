@@ -40,4 +40,4 @@ Also interested in:
 Cheers,  
 Amanjot Singh  
 
-[Portfolio](https://amanjotsinghdhunna.netlify.app)
+[Portfolio](https://amandhunna.netlify.app)
